@@ -7,3 +7,6 @@ Reads the VAG infotainment canbus and triggers key strokes to control Open Auto 
 * 35b byte 5 (20 28) clutch
 * 351 byte 1 (00 02) reverse
 * 5C1 steering wheel controls
+* 571 panoramic roof (read only) 
+* 575 byte 4 clutch
+* 369 revs
